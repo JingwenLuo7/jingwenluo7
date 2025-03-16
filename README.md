@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Jingwen Luo
+![](https://img.shields.io/badge/Bioinformatics-Genomics/Epigenomics/DataAnalysis-blue.svg)
+![](https://img.shields.io/badge/Coding-Python/R-red.svg)
+ 
+ > Eager to learn | Happy to code | Curious to discover
+  
 <!--
 **JingwenLuo7/jingwenluo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
